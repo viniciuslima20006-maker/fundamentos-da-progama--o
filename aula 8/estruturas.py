@@ -19,4 +19,4 @@ elif idade >= 0 and idade <18:
 elif idade>= 70:
     print("você é experiente de idade.")
 else:
-    prin("Você é menor de idade")
+    print("Você é menor de idade")

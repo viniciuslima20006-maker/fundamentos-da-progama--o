@@ -12,9 +12,14 @@
 * -> multiplicação
 / -> divisão
 
+## operadores logicos
+and -> e -> se duas condições forem verdadeira, o resultado é verdadeiro
+or-> e -> se pelo menos uma condição for verdadeira, o resultado é verdadeiro
+
+
 ## metodos em python
 1. print() -> exibi informações no terminas
-
+2. imput() -> capturar uma informação no terminal
 ## Format em python
 
  Estrutura de repetição
