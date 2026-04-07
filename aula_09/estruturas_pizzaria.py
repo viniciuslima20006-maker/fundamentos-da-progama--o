@@ -11,4 +11,4 @@ print(f"O sabor escolhido da pizza é {pizza_sabor}, o tamanho é {pizza_tamanho
 
 # comprando uma pizza de calabresa de tamanho medio, em qualquer dia, o frete é gratuito.
 
-#comprando qualquer pizza de qualquer tamanho no domingo, o frete e o refri são gratuitos./////////////////////////////////////////////////////////////////
+#comprando qualquer pizza de qualquer tamanho no domingo, o frete e o refri são gratuitos.
