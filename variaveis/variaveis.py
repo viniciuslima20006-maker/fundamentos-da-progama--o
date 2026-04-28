@@ -5,9 +5,11 @@
 # 2.number  - int (numero inteiro) ->
 # 3. number - float (numero decimal) ->
 # 4. boolean - True ou False (Verdadeiro ou Falso) ->
-nome = "Vinicius" # string 
-email =  "viniciuslima20006@gmail.com"# string
+nome = "Gabriel" # string 
+email =  "gabriel@email.com" # string
 cidade = "Rio de Janeiro" # string
-cpf = 20719734703 # number-int 
+cpf = 15269643766 # number-int 
 salario = 1500.78 # number-float
 casado= False  # boolean
+print(casado)
+print(cpf)
